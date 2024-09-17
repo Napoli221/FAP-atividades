@@ -1,0 +1,17 @@
+.area {
+    display: flex;
+    align-items: center;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: inline-flex;
+    padding: 1.5em;
+    border-radius: 0.5em;
+    width: 20em;
+    
+
+}
